@@ -120,7 +120,12 @@ Este projeto está sob a licença MIT.
 
 ## 👤 Autor
 by **Rodolfo M. F. Abreu**
+<p align="center">
+  <sub>Desenvolvido para o desafio GoStack 🚀</sub>
+</p>
 
-<div align="center">
-  <strong>Feito com 💙 por GoStack & comunidade!</strong>
-</div>
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Feito%20com%20%E2%9D%A4%20por-Rocketseat-blueviolet" />
+</p>
